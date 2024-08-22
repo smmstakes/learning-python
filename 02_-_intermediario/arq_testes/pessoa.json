@@ -1,0 +1,9 @@
+{
+  "nome": "Alice",
+  "idade": 25,
+  "genero": "Feminino",
+  "endereco": "Brasilia",
+  "telefone": "99999-9999",
+  "email": "alice@example.com",
+  "profissão": "Engenheira"
+}
