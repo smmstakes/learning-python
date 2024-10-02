@@ -1,0 +1,4 @@
+Error: Teste mal-sucedido - main.py
+Sucess: Teste bem-sucedido - main.py
+Error: Teste mal-sucedido - log.py
+Sucess: Teste bem-sucedido - log.py
